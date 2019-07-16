@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d1e5daa-f936-47ba-a69d-865e919bd30a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Golf.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SwingAnalyzer/BackwardFrame-ForwardAttach-accmulate-except-human.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SwingAnalyzer/BackwardFrame-ForwardAttach-accmulate-segmentation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SwingAnalyzer/BackwardFrame-ForwardAttach-accmulate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-BackwardAttach-accumulate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-add.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-addweight.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-add.py" afterPath="$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-add.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForwardFrame-ForwardAttach-accumulate.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ForwardFrame-ForwardAttach-accumulate.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-accumulate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -96,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BackwardFrame-ForwardAttach-accmulate-segmentation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BackwardFrame-ForwardAttach-accmulate-segmentation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwingAnalyzer/BackwardFrame-ForwardAttach-accmulate-segmentation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -331,6 +320,14 @@
       <option name="presentableId" value="Default" />
       <updated>1563285932082</updated>
     </task>
+    <task id="LOCAL-00001" summary="스윙 분석">
+      <created>1563286928463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563286928463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -365,6 +362,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스윙 분석" />
+    <option name="LAST_COMMIT_MESSAGE" value="스윙 분석" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -388,16 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SwingAnalyzer/BackwardFrame-ForwardAttach-accmulate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -414,14 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-accumulate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SwingAnalyzer/BackwardFrame-ForwardAttach-accmulate-except-human.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -434,6 +417,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwingAnalyzer/ForwardFrame-ForwardAttach-accumulate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="58" />
           <folding />
         </state>
       </provider>
